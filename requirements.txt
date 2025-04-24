@@ -1,0 +1,3 @@
+watchdog==3.0.0
+playsound==1.3.0
+pyinstaller==6.3.0
